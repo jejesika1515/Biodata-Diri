@@ -1,0 +1,32 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    color: #faf2f2;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 300px;
+    height: auto;
+    border-radius: 50%;
+}
+
+p {
+    margin: 10px;
+}
+
+h2 {
+    color: #faf8f8;
+}
+
+.personal-info, .education {
+    margin-bottom: 20px;
+}
